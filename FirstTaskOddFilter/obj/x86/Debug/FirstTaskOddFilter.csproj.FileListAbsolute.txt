@@ -1,0 +1,5 @@
+/Users/gergo/Documents/pallida-basic-exam-trial/FirstTaskOddFilter/bin/Debug/FirstTaskOddFilter.exe
+/Users/gergo/Documents/pallida-basic-exam-trial/FirstTaskOddFilter/bin/Debug/FirstTaskOddFilter.pdb
+/Users/gergo/Documents/pallida-basic-exam-trial/FirstTaskOddFilter/obj/x86/Debug/FirstTaskOddFilter.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/pallida-basic-exam-trial/FirstTaskOddFilter/obj/x86/Debug/FirstTaskOddFilter.exe
+/Users/gergo/Documents/pallida-basic-exam-trial/FirstTaskOddFilter/obj/x86/Debug/FirstTaskOddFilter.pdb
