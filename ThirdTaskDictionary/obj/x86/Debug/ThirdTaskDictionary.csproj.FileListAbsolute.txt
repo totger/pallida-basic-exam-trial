@@ -1,0 +1,5 @@
+/Users/gergo/Documents/pallida-basic-exam-trial/ThirdTaskDictionary/obj/x86/Debug/ThirdTaskDictionary.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/pallida-basic-exam-trial/ThirdTaskDictionary/bin/Debug/ThirdTaskDictionary.exe
+/Users/gergo/Documents/pallida-basic-exam-trial/ThirdTaskDictionary/bin/Debug/ThirdTaskDictionary.pdb
+/Users/gergo/Documents/pallida-basic-exam-trial/ThirdTaskDictionary/obj/x86/Debug/ThirdTaskDictionary.exe
+/Users/gergo/Documents/pallida-basic-exam-trial/ThirdTaskDictionary/obj/x86/Debug/ThirdTaskDictionary.pdb

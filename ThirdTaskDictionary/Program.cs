@@ -19,6 +19,8 @@ namespace Dictionary
 
             AddWord("kutya", "dog");
             RemoveWord("asztal");
+            Console.WriteLine(TranslateToEnglish("kutya"));
+            Console.WriteLine(TranslateToHungarian("tree"));
 
             //add more words to your dictionary
 
@@ -40,14 +42,21 @@ namespace Dictionary
         // Example: you give it a parameter "alma" and it's output is "tree"
         public static string TranslateToEnglish(string hungarian)
         {
-            return 
+            return Dictionary[hungarian];
         }
 
         // Implement a method which works as a translator from English to Hungarian
         // Example: you give it a parameter "apple" and it's output is "alma"
         public static string TranslateToHungarian(string english)
         {
-
+            foreach (KeyValuePair<string, string> element in Dictionary)
+			{
+				if (element.Value == english)
+				{
+					return element.Key;
+				}
+			}
+            return "There is no such word in the dictionary. :(";
         }
     }
 }
