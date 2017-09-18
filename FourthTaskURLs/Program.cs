@@ -22,10 +22,9 @@ namespace UrlsFromHandles
 
         private static List<string> UrlsFromHandles(List<string> list)
         {
-            string gitHubUrl = "https://github.com/greenfox-academy/";
             for (int i = 0; i < list.Count; i++)
             {
-                list[i] = gitHubUrl + list[i];
+                list[i] = "https://github.com/greenfox-academy/" + list[i];
             }
             return list;
         }
