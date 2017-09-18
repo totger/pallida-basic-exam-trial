@@ -10,12 +10,15 @@ namespace NameFromEmail
             //and returns a string that represents the user name in the following format: lastName firstName
             //example: "elek.viz@exam.com" for this input the output should be: "Viz Elek"
             //accents does not matter 
-            Console.WriteLine(NameFromEmail("elek.viz@exam.com"));
+            Console.WriteLine(NameFromEmail());
             Console.ReadLine();
         }
 
-        public static string NameFromEmail(string email)
+        public static string NameFromEmail()
         {
+            Console.WriteLine("Type in your email email address in this format" +
+                              "\nfirstName.lastName@exam.com");
+            string email = Console.ReadLine();
             string name = email.Split('@')[0];
             string[] fullName = name.Split('.');
             char[] lastName = fullName[1].ToCharArray();
