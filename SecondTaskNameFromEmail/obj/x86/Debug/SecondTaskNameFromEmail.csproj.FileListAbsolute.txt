@@ -1,0 +1,5 @@
+/Users/gergo/Documents/pallida-basic-exam-trial/SecondTaskNameFromEmail/obj/x86/Debug/SecondTaskNameFromEmail.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/pallida-basic-exam-trial/SecondTaskNameFromEmail/bin/Debug/SecondTaskNameFromEmail.exe
+/Users/gergo/Documents/pallida-basic-exam-trial/SecondTaskNameFromEmail/bin/Debug/SecondTaskNameFromEmail.pdb
+/Users/gergo/Documents/pallida-basic-exam-trial/SecondTaskNameFromEmail/obj/x86/Debug/SecondTaskNameFromEmail.exe
+/Users/gergo/Documents/pallida-basic-exam-trial/SecondTaskNameFromEmail/obj/x86/Debug/SecondTaskNameFromEmail.pdb
