@@ -1,0 +1,5 @@
+/Users/gergo/Documents/pallida-basic-exam-trial/FourthTaskURLs/bin/Debug/FourthTaskURLs.exe
+/Users/gergo/Documents/pallida-basic-exam-trial/FourthTaskURLs/bin/Debug/FourthTaskURLs.pdb
+/Users/gergo/Documents/pallida-basic-exam-trial/FourthTaskURLs/obj/x86/Debug/FourthTaskURLs.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/pallida-basic-exam-trial/FourthTaskURLs/obj/x86/Debug/FourthTaskURLs.exe
+/Users/gergo/Documents/pallida-basic-exam-trial/FourthTaskURLs/obj/x86/Debug/FourthTaskURLs.pdb
